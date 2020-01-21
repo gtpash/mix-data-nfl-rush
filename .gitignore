@@ -1,1 +1,14 @@
 *.npy
+*.csv
+*.pkl
+data/
+data_fixed/
+*.h5
+*.json
+*.DS_Store
+*.out
+*.txt
+*.script
+591_project_whpowell.ipynb
+cnn/
+combined/
